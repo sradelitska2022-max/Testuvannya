@@ -1,0 +1,3 @@
+Hi!
+This file was generated automatically
+End of file
